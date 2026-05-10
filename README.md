@@ -43,4 +43,4 @@ https://github.com/user-attachments/assets/f0a73db3-082b-42de-a7ca-322f7b652196
 
 ---
 
-*Note: For full installation steps and source code analysis, please refer to the `ui.py` file or contact me directly.*
+*Note: For full installation steps and source code analysis, contact me directly.*
